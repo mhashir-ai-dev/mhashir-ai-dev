@@ -29,7 +29,7 @@ I believe AI should be used as a force multiplier — helping engineers build fa
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html)](https://skillicons.dev)
 
 ### Software & AI
 
