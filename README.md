@@ -1,94 +1,41 @@
-# Hi, I'm Muhammad Hashir 👋
+<div align="center">
 
-### BSCS Student • AI & Software Builder • Founder
+<a href="https://github.com/mhashir-ai-dev">
+  <img src="./assets/muhammad-hashir-profile.png"
+       alt="Muhammad Hashir — Software Engineering, AI Systems, Automation, Founder"
+       width="1024">
+</a>
 
-I build practical AI-powered software, automation systems, and digital solutions for real-world problems.
+</div>
 
-Currently focused on:
-- 🤖 AI Software Engineering & Intelligent Systems
-- 🧠 Problem-Solving & Systems Thinking
-- ⚙️ AI-Assisted Software Development
-- 🚀 Building Practical Projects & Automation Systems
-- 💼 Growing HEX Automation & Services (HAS)
+<br>
 
----
+<div align="center">
 
-## About Me
+<a href="https://github.com/mhashir-ai-dev"><img src="https://img.shields.io/badge/GitHub-mhashir--ai--dev-080912?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hashir-080912?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hexautomationservices@gmail.com"><img src="https://img.shields.io/badge/Email-hexautomationservices%40gmail.com-080912?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://hasautomation.online"><img src="https://img.shields.io/badge/HAS-HEX%20Automation%20%26%20Services-080912?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HAS"></a>
 
-I'm a Computer Science student at UCP Lahore exploring the intersection of software engineering, AI, automation, and entrepreneurship.
-
-I believe AI should be a **force multiplier** — helping engineers build faster while keeping architecture, reasoning, creativity, and engineering judgment human-driven.
-
-My approach:
-
-> **Human decides → AI accelerates → Human verifies**
+</div>
 
 ---
 
-## What I Build
+### Profile data
 
-- 🤖 AI-powered applications
-- ⚙️ Automation & workflow systems
-- 🧩 AI agents & integrations
-- 🌐 APIs & backend systems
-- 💻 Business software
-- 🚀 Practical digital products
+**Muhammad Hashir**  
+BSCS Student at UCP Lahore · AI Systems · Automation · Founder, HEX Automation & Services
 
----
+Building practical software, automation systems, and digital solutions.
 
-## Tech Stack
+### HAS
 
-### Languages
+**HEX Automation & Services**  
+AI-powered software, automation systems, workflow automation, integrations, and practical digital solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html)](https://skillicons.dev)
-
-### Software Development
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,fastapi,docker)](https://skillicons.dev)
-
-### AI & Automation
-
-<p>
-  <img src="YOUR_OPENAI_ICON_URL" width="50" height="50" alt="OpenAI" />
-  <img src="YOUR_GEMINI_ICON_URL" width="50" height="50" alt="Google Gemini" />
-  <img src="YOUR_CLAUDE_ICON_URL" width="50" height="50" alt="Claude" />
-  <img src="YOUR_ANTIGRAVITY_ICON_URL" width="50" height="50" alt="Antigravity" />
-  <img src="YOUR_N8N_ICON_URL" width="50" height="50" alt="n8n" />
-  <img src="YOUR_OPENROUTER_ICON_URL" width="50" height="50" alt="OpenRouter" />
-</p>
-
-### Databases & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb,supabase,git,github)](https://skillicons.dev)
+[Visit HAS →](https://hasautomation.online)
 
 ---
 
-## Current Focus
+> The image above is the locked visual composition supplied for this profile. The README keeps the visual unchanged while the links below remain real, clickable GitHub Markdown links.
 
-**AI Software Engineering + Entrepreneurship**
-
-Building → Testing → Debugging → Improving → Shipping
-
----
-
-## What I'm Working Toward
-
-Building strong foundations in:
-
-- Software engineering
-- AI engineering
-- Problem-solving
-- Systems thinking
-- Automation
-- Product development
-- Entrepreneurship
-
-The goal is to combine **technical capability, independent thinking, and AI leverage** to build useful software and businesses.
-
----
-
-## Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hashir-tech/)
-- 🌐 [HEX Automation & Services](https://hasautomation.online)
-- 📧 [hexautomationservices@gmail.com](mailto:hexautomationservices@gmail.com)
