@@ -7,7 +7,7 @@ I build practical AI powered software, automation systems, and digital solutions
 Currently focused on:
 - 🤖 AI engineering & intelligent systems
 - ⚙️ Software development & automation
-- 🧠 Problem-solving and systems thinking
+- 🧠 Problem solving and systems thinking
 - 🚀 Building products and services through HEX Automation & Services (HAS)
 
 ## About Me
