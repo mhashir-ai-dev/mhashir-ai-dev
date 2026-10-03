@@ -28,12 +28,15 @@ I believe AI should be used as a force multiplier — helping engineers build fa
 ## Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html,sql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html,mysql)](https://skillicons.dev)
 
 ### Software & AI
-[![My Skills](https://skillicons.dev/icons?i=openai,nodejs,react,nextjs,fastapi,docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,fastapi,docker)](https://skillicons.dev)
 
 ### Databases & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb,supabase,git,github)](https://skillicons.dev)
 
 ## Current Focus
