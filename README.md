@@ -37,7 +37,12 @@ I believe AI should be used as a force multiplier — helping engineers build fa
 
 ### AI & Automation
 
-[![My Skills](https://skillicons.dev/icons?i=openai,gemini,n8n)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.simpleicons.org/openai" height="50" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" height="50" alt="Google Gemini"/>
+  <img src="https://cdn.simpleicons.org/n8n" height="50" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/openrouter" height="50" alt="OpenRouter"/>
+</p>
 
 ### Databases & Tools
 
