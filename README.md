@@ -39,37 +39,37 @@ I believe AI should be used as a force multiplier — helping engineers build fa
 
 <p>
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/openai.svg"
+    src="https://cdn.simpleicons.org/openai/FFFFFF"
     width="50"
     height="50"
-    alt="OpenAI (ChatGPT)"
+    alt="OpenAI"
   />
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/gemini.svg"
+    src="https://cdn.simpleicons.org/googlegemini/8E75FF"
     width="50"
     height="50"
     alt="Google Gemini"
   />
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/claude.svg"
+    src="https://cdn.simpleicons.org/anthropic/D97757"
     width="50"
     height="50"
     alt="Claude"
   />
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/antigravity.svg"
+    src="https://cdn.simpleicons.org/google/4285F4"
     width="50"
     height="50"
     alt="Antigravity"
   />
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/n8n.svg"
+    src="https://cdn.simpleicons.org/n8n/EA4B71"
     width="50"
     height="50"
     alt="n8n"
   />
   <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/openrouter.svg"
+    src="https://cdn.simpleicons.org/openrouter/FFFFFF"
     width="50"
     height="50"
     alt="OpenRouter"
