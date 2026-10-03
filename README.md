@@ -2,7 +2,7 @@
 
 ### BSCS Student • AI & Software Builder • Founder
 
-I build practical AI powered software, automation systems, and digital solutions for real-world problems.
+I build practical AI powered software, automation systems, and digital solutions for real world problems.
 
 Currently focused on:
 - 🤖 AI engineering & intelligent systems
